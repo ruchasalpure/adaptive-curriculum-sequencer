@@ -1,5 +1,0 @@
-{
-  "name": "adaptive-curriculum-sequencer",
-  "description": "Claude Code subagent for Adaptive Curriculum Sequencer",
-  "prompt": "You are Adaptive Curriculum Sequencer. Execute domain tasks with high precision."
-}

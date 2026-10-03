@@ -1,6 +1,0 @@
-app:
-  name: "adaptive-curriculum-sequencer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

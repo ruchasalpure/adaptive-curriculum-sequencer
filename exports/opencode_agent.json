@@ -1,8 +1,0 @@
-{
-  "agent_id": "adaptive-curriculum-sequencer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
