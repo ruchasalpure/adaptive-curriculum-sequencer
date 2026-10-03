@@ -1,0 +1,10 @@
+{
+  "name": "adaptive-curriculum-sequencer",
+  "instructions": "You are Adaptive Curriculum Sequencer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

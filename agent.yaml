@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "adaptive-curriculum-sequencer"
+version: "1.0.0"
+category: "education"
+author: "Rucha Salpure"
+description: "Dynamically calibrates pedagogical topic progression and problem difficulty using Item Response Theory (IRT) and Bayesian Knowledge Tracing"
+capabilities:
+  - "irt-difficulty-calibration"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "irt-difficulty-calibration"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

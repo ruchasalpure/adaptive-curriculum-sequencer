@@ -1,0 +1,5 @@
+{
+  "name": "adaptive-curriculum-sequencer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
